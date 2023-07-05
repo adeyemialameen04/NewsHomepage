@@ -30,6 +30,7 @@
   /* background-color: red; */
 }
 
+/* NAVBAR */
 .nav__container {
   padding-block: 1rem;
   display: flex;
@@ -64,6 +65,15 @@
 .nav__btns {
   display: none;
 }
+
+/* ========== MAIN ============= */
+
+
+
+
+
+
+
 
 @media(max-width: 780px) {
   .nav__links {
