@@ -37,8 +37,7 @@ body {
   text-rendering: optimizeSpeed;
   line-height: 1.5;
   font-family: 'Inter', sans-serif;
-  /* background-color: var(--grayish-blue); */
-  padding-bottom: 100000px;
+  padding-bottom: 1000px;
 }
 
 /* A elements that don't have a class get default styles */
