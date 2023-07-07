@@ -8,6 +8,7 @@ openNavBtn.addEventListener("click", () => {
   closeNavBtn.style.display = "inline-block";
   openNavBtn.style.display = "none";
   document.body.style.backgroundColor = "rgba(0,0,0,0.2)";
+  document.body.style.overflowY = "hidden";
 });
 
 closeNavBtn.addEventListener("click", () => {
@@ -15,4 +16,5 @@ closeNavBtn.addEventListener("click", () => {
   openNavBtn.style.display = "inline-block";
   closeNavBtn.style.display = "none";
   document.body.style.backgroundColor = "white";
+  document.body.style.overflowY = "scroll";
 });
