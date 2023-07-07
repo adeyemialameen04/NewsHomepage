@@ -67,15 +67,24 @@
 }
 
 /* ========== MAIN ============= */
+.web__section {
+  display: flex;
+  flex-direction: column;
+}
 
 
-
-
+.img__container img:nth-child(2) {
+  display: none;
+}
 
 
 
 
 @media(max-width: 780px) {
+  .container {
+    width: var(--container-lg);
+  }
+
   .nav__links {
     position: fixed;
     inset: 0 0 0 20%;
@@ -115,10 +124,8 @@
     font-size: 1.1rem;
     color: var(--very-dark-blue);
   }
-}
 
-@media (min-width: 780px) {
-  .container {
-    width: var(--container-lg);
+  .img__container img:nth-child(2) {
+    display: block;
   }
 }
