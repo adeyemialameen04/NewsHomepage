@@ -23,7 +23,7 @@ The landing page consists of a navbar and a hero section with some content. The 
 
 ## Demo
 
-You can view the live demo of the project [here](https://your-demo-link.com).
+You can view the live demo of the project [here](https://news-landing-homepage.vercel.app/).
 
 ## Installation
 
@@ -41,8 +41,8 @@ Usage
 Feel free to customize and modify the code to meet your requirements. You can add additional sections, update the styling, or enhance the functionality as needed.
 
 Credits
-[Challenge by Frontend Mentor](https://www.frontendmentor.io/)
-[Iconscout](https://iconscout.com/)
+[Challenge by Frontend Mentor](https://www.frontendmentor.io/).
+[Iconscout](https://iconscout.com/).
 
 Resources
 Here are some resources that may be helpful for completing this challenge:
